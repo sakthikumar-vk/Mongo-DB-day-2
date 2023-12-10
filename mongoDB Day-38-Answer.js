@@ -1,6 +1,4 @@
-// Day-37 Database
 
-// use Day_38;
 
 //Creating Users collection
 db.users.insert([
